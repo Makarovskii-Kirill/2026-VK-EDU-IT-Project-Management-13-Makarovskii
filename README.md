@@ -1,4 +1,6 @@
-# 2026-VK-EDU-IT-Project-Management-13-Makarovskii0
+# 2026-VK-EDU-IT-Project-Management-13-Makarovskii
+
+# Практическое задание №2
 
 ## ИИ-платформа для интеллектуального управления документооборотом коммерческих компаний
 
